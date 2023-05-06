@@ -20,14 +20,14 @@ class MyApp extends StatelessWidget {
                   backgroundImage: AssetImage('images/myph.png'),
                 ),
                 Text(
-                  'Parwiz Parsa',
+                  'Nawid Haidari',
                   style: TextStyle(
                       color: Colors.white,
                       fontSize: 35,
                       fontWeight: FontWeight.bold,
                       fontFamily: 'DancingScript'),
                 ),
-                Text('ُTeacher',
+                Text('ُStudent',
                     style: TextStyle(
                       color: Color.fromARGB(255, 173, 204, 223),
                       fontSize: 20,
@@ -46,7 +46,7 @@ class MyApp extends StatelessWidget {
                       color: Colors.lightBlue,
                     ),
                     title: Text(
-                      '+93 797 12 64 64',
+                      '+93 79 45 67 89',
                       style: TextStyle(color: Colors.lightBlue, fontSize: 18),
                     ),
                   ),
@@ -59,7 +59,7 @@ class MyApp extends StatelessWidget {
                       color: Colors.lightBlue,
                     ),
                     title: Text(
-                      'parwiz@gmail.com',
+                      'Nawid@gmail.com',
                       style: TextStyle(color: Colors.lightBlue, fontSize: 18),
                     ),
                   ),
